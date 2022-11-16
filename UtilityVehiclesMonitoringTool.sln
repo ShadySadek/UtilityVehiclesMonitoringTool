@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtilityVehiclesMonitoringTool", "UtilityVehiclesMonitoringTool\UtilityVehiclesMonitoringTool.csproj", "{DFEFCD0B-D843-4A44-BF73-7115E5208DCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFEFCD0B-D843-4A44-BF73-7115E5208DCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFEFCD0B-D843-4A44-BF73-7115E5208DCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFEFCD0B-D843-4A44-BF73-7115E5208DCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFEFCD0B-D843-4A44-BF73-7115E5208DCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C98788A3-180D-40DB-85FD-06EF2FBEFB44}
+	EndGlobalSection
+EndGlobal
